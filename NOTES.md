@@ -1,6 +1,6 @@
 # Notes: my design log
 
-**Live URL (Vercel):** _paste your deployed link here_
+**Live URL (Vercel):** https://lab-tech-shop1.vercel.app/premium
 
 ## 1. Route and storage choice
 
